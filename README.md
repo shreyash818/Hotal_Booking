@@ -93,5 +93,5 @@ Hotels often face challenges such as:
 _Add dashboard screenshots here_
 
 Example:
-        Annual Report Dashboard :-
+        Annual Report Dashboard :-https://github.com/shreyash818/Hotal_Booking/blob/main/Anuual%20Report.jpg
         Weekly Report Dashboard :-
