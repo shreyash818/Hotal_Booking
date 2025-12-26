@@ -92,6 +92,6 @@ Hotels often face challenges such as:
 ## 📸 Screenshots / Demo
 
 Example:
-
-        Annual Report Dashboard :-https://github.com/shreyash818/Hotal_Booking/blob/main/Anuual%20Report.jpg
-        Weekly Report Dashboard :-https://github.com/shreyash818/Hotal_Booking/blob/main/Weekly%20Report%20.jpg
+        Annual Report Dashboard :-  https://github.com/shreyash818/Hotal_Booking/blob/main/Anuual%20Report.jpg
+        
+        Weekly Report Dashboard :-  https://github.com/shreyash818/Hotal_Booking/blob/main/Weekly%20Report%20.jpg
